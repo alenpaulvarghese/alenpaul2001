@@ -5,11 +5,12 @@
 <img align="right" width=480 height=270 src="src/gilfoyle.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <strong>PDF Bot</strong></li>
-<li>🌱 Learning about <strong>Go and Python</strong></li>
+<li>🔭 I’m currently working on <strong>PDF Bot.</strong></li>
+<li>🌱 Learning about <strong>async in python</strong>, <strong>golang</strong>.</li>
+<li>💬 Ask me about <strong>Telegram and Python</strong>.</li>
 <li>👨‍💻 Most of my <strong>projects</strong> are available on <a href="https://github.com/alenpaul2001">Github</a>.</li>
-<li>💬 Ask me about <strong>Telegram and Python</strong></li>
-<li>⚡ Fun fact: <strong>I Drink Lot Of Coffee ☕</strong></li>
+<li>🦹 Favourite super villain <a href="https://en.wikipedia.org/wiki/Eobard_Thawne"><strong>Reverse-Flash</strong></a>.</li>
+<li>⚡ Fun fact: I drink lot of <strong>Coffees ☕</strong>.</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
