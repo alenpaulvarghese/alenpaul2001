@@ -1,16 +1,14 @@
 <h2>👋,Hey I'm AlenPaulVarghese.</h2>
-<p>I'm currently a final computer engineering student <strong><a href="https://gpckaduthuruthy.ac.in/">@gpckaduthuruthy</a></strong>. I am working on some side projects, learning some couple new dishes.</p>
+I am working on some side projects, learning some couple new dishes.</p>
 <p><a href="https://t.me/BytesIO"><img src="https://img.shields.io/badge/-@BytesIO-0290F7?style=flat-square&amp;labelColor=FFFFFF&amp;logo=Telegram&amp;link=https://t.me/BytesIO" alt="Telegram Badge"></a> <a href="https://dev.to/alenpaul2001"><img src="https://img.shields.io/badge/-@alenpaul2001-FFFFFF?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/alenpal2001" alt="DevTo Badge"></a> <a href="https://gitlab.com/alenpaul2001/"><img src="https://img.shields.io/badge/-@alenpaul2001-380D75?style=flat-square&amp;logo=Gitlab&amp;link=https://gitlab.com/alenpaul2001/" alt="Gitlab Badge"></a>
 <a href="mailto:alenpaul2001@pm.me?subject=Hello%20There&body=Lorem%20Ipsum%20is%20great%20!!"><img src="https://img.shields.io/badge/-@alenpaul2001@pm.me-8B89CC?style=flat-square&amp;labelColor=FFFFFF&amp;logo=ProtonMail&amp;link=mailto:alenpaul2001@pm.me", alt="Proton Badge"></a></p>
 <img align="right" width=480 height=270 src="src/gilfoyle.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on a <strong>PDF bot.</strong></li>
-<li>🌱 Learning <strong>python</strong>, <strong>go, rust</strong>.</li>
-<li>💬 Ask me about <strong>telegram and python</strong>.</li>
+<li>🌱 Learning <strong>python and rust</strong>.</li>
 <li>👨‍💻 Some of my <strong>projects</strong> are available on <a href="https://gitlab.com/alenpaul2001">Gitlab</a>.</li>
-<li>🦹 Favourite super villain <a href="https://en.wikipedia.org/wiki/Eobard_Thawne"><strong>Reverse-flash</strong></a>.</li>
-<li>⚡ Fun fact: I take lot of <strong>Caffeine ☕</strong>.</li>
+<li>🦹 Favourite super villain <a href="https://en.wikipedia.org/wiki/Eobard_Thawne"><strong>Reverse Flash</strong></a>.</li>
+<li>⚡ Fun fact: I consume a lot of <strong>Caffeine ☕</strong>.</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
@@ -30,4 +28,4 @@
 <img src="https://avatars0.githubusercontent.com/u/39539223?s=460&u=f213f82c027815991ef5ad42ae0fdb49e80e22c3&v=4" alt="brave browser" width="25" height="25" />
 </p>
 
-[![AlenPaulVarghese github stats](https://github-readme-stats.vercel.app/api?username=alenpaul2001&count_private=true&show_icons=true&theme=radical)](https://github.com/alenpaul2001)
+[![AlenPaulVarghese github stats](https://github-readme-stats.vercel.app/api?username=alenpaulvarghese&count_private=true&show_icons=true&theme=radical)](https://github.com/alenpaulvarghese)
