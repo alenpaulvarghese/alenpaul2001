@@ -1,8 +1,9 @@
 <h2>👋,Hey I'm AlenPaulVarghese.</h2>
-I am working on some side projects, learning some couple new dishes.</p>
-<p><a href="https://t.me/BytesIO"><img src="https://img.shields.io/badge/-@BytesIO-0290F7?style=flat-square&amp;labelColor=FFFFFF&amp;logo=Telegram&amp;link=https://t.me/BytesIO" alt="Telegram Badge"></a> <a href="https://dev.to/alenpaul2001"><img src="https://img.shields.io/badge/-@alenpaul2001-FFFFFF?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/alenpal2001" alt="DevTo Badge"></a> <a href="https://gitlab.com/alenpaul2001/"><img src="https://img.shields.io/badge/-@alenpaul2001-380D75?style=flat-square&amp;logo=Gitlab&amp;link=https://gitlab.com/alenpaul2001/" alt="Gitlab Badge"></a>
+<img align="right" width=480 height=280 src="src/gilfoyle.gif" />
+<p>I am working on some side projects, learning some couple new dishes.</p>
+<a href="https://t.me/BytesIO"><img src="https://img.shields.io/badge/-@BytesIO-0290F7?style=flat-square&amp;labelColor=FFFFFF&amp;logo=Telegram&amp;link=https://t.me/BytesIO" alt="Telegram Badge"></a> <a href="https://dev.to/alenpaul2001">
+<a href="https://gitlab.com/alenpaul2001/"><img src="https://img.shields.io/badge/-@alenpaul2001-380D75?style=flat-square&amp;logo=Gitlab&amp;link=https://gitlab.com/alenpaul2001/" alt="Gitlab Badge"></a>
 <a href="mailto:alenpaul2001@pm.me?subject=Hello%20There&body=Lorem%20Ipsum%20is%20great%20!!"><img src="https://img.shields.io/badge/-@alenpaul2001@pm.me-8B89CC?style=flat-square&amp;labelColor=FFFFFF&amp;logo=ProtonMail&amp;link=mailto:alenpaul2001@pm.me", alt="Proton Badge"></a></p>
-<img align="right" width=480 height=270 src="src/gilfoyle.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🌱 Learning <strong>python and rust</strong>.</li>
